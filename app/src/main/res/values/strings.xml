@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">NetCart Sprint Dev Task Board</string>
+    <string name="app_short_name">NetCart Sprint</string>
+    <string name="app_subtitle">IT Task &amp; Sprint Manager</string>
+    <string name="splash_footer">v1.0 • Offline Secure Workspace</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_tasks">Tasks</string>
+    <string name="nav_sprints">Sprints</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Actions & Accessibility -->
+    <string name="cd_app_logo">DevSprint emblem</string>
+    <string name="cd_search">Quick search tasks</string>
+    <string name="cd_close_search">Close search</string>
+    <string name="cd_create_task">Create new task</string>
+    <string name="cd_advance_status">Advance task status</string>
+    <string name="cd_privacy_shield">Offline privacy shield</string>
+
+    <!-- Home Dashboard -->
+    <string name="home_urgent_blockers">Urgent Blockers (P0 / P1)</string>
+    <string name="home_no_blockers">No active P0 or P1 blockers in this sprint.</string>
+    <string name="kpi_total_active">Total Active Tasks</string>
+    <string name="kpi_in_progress">Tasks In Progress</string>
+    <string name="kpi_pending_review">Pending Review / QA</string>
+    <string name="kpi_closed">Closed Tasks</string>
+
+    <!-- Tasks Board -->
+    <string name="search_placeholder">Search ticket ID, title, or module…</string>
+    <string name="advance_status">Advance Status</string>
+    <string name="completed_label">Completed</string>
+    <string name="empty_tasks_title">No tickets in this stage</string>
+    <string name="empty_tasks_subtitle">Adjust your category filter or tap + to create a new engineering ticket.</string>
+
+    <!-- Create / Edit Sheet -->
+    <string name="sheet_create_title">Create Engineering Ticket</string>
+    <string name="sheet_edit_title">Edit Ticket</string>
+    <string name="field_title">Ticket Title</string>
+    <string name="field_description">Technical Description</string>
+    <string name="field_type">Task Type</string>
+    <string name="field_priority">Priority Matrix</string>
+    <string name="field_story_points">Story Points</string>
+    <string name="field_module">Target Module</string>
+    <string name="field_status">Pipeline Status</string>
+    <string name="field_due_date">Due Date (YYYY-MM-DD)</string>
+    <string name="action_save">Save Ticket</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_cancel">Cancel</string>
+
+    <!-- Sprints -->
+    <string name="sprint_dept_breakdown">Department &amp; Module Progress</string>
+    <string name="sprint_close_rollover">Close Current Sprint &amp; Roll Over</string>
+    <string name="sprint_close_confirm_title">Close Sprint &amp; Roll Over?</string>
+    <string name="sprint_close_confirm_body">Incomplete tickets will return to Backlog and the next sprint sequence will start immediately.</string>
+
+    <!-- Settings -->
+    <string name="settings_display">Display Preferences</string>
+    <string name="settings_dark_mode">Dark Tech Theme</string>
+    <string name="settings_dark_mode_desc">High-contrast Midnight Navy palette for low-glare sessions</string>
+    <string name="settings_compact_view">Compact Card View</string>
+    <string name="settings_compact_view_desc">Condense task cards to show more tickets per viewport</string>
+    <string name="settings_workflow">Workflow Configuration</string>
+    <string name="settings_default_priority">Default Task Priority</string>
+    <string name="settings_default_sprint_duration">Default Sprint Duration</string>
+    <string name="settings_data_mgmt">Data Management</string>
+    <string name="settings_export_json">Export Local JSON</string>
+    <string name="settings_import_json">Import Local JSON</string>
+    <string name="settings_reset_demo">Reset to Demo Data</string>
+    <string name="privacy_badge_title">Privacy Compliance Verified</string>
+    <string name="privacy_badge_body">100% Local Device Storage • Zero Network Access • Zero Telemetry • Zero Ads</string>
+</resources>

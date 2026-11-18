@@ -1,0 +1,6 @@
+{
+  "name": "NetCart Sprint Dev Task Board",
+  "description": "Offline-first IT task and sprint manager for software engineers, QA teams, and tech leads with zero network permissions and zero telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

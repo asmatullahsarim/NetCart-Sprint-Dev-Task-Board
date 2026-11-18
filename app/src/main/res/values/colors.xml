@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="midnight_navy">#FF0F172A</color>
+    <color name="slate_dark">#FF1E293B</color>
+    <color name="electric_cyan">#FF06B6D4</color>
+    <color name="emerald_green">#FF10B981</color>
+    <color name="amber_gold">#FFF59E0B</color>
+    <color name="crimson_red">#FFEF4444</color>
+    <color name="crisp_white">#FFF8FAFC</color>
+    <color name="muted_slate">#FF94A3B8</color>
+</resources>
